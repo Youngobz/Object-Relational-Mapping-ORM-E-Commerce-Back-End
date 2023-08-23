@@ -2,6 +2,7 @@
 
 The E-commerce Backend is a powerful application that manages the backend operations of an e-commerce platform. This application is built using Express.js for routing, Sequelize ORM for database interactions, and MySQL as the database.
 
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
