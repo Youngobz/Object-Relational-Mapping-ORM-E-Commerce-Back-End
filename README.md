@@ -24,7 +24,7 @@ Follow these steps to get the E-commerce Backend up and running:
 
 ## Usage <a name="usage"></a>
 
-To start the server, run `npm start`. If you prefer automatic server restart on code changes, use `npm run watch`.
+To start the server, run `npm start`.
 
 Access the API endpoints using tools like [Postman](https://www.postman.com/) or `curl` commands. Refer to the [API Routes](#api-routes) section for details on available endpoints and their functionalities.
 
